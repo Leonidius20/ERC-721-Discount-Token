@@ -1,3 +1,5 @@
+This project is Створити смартконтракт ERC-721, в якому в метадаті є поле discount з значенням від 0 до 20. 
+
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
